@@ -14,7 +14,9 @@ function divide(a, b) {
     return a / b
 }
 
-
+function sqrt(a) {
+    return Math.sqrt(a)
+}
 function factorial(a) {
     if (a == 1) {
         return 1
